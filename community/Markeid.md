@@ -10,7 +10,7 @@
 
 Eu sou um entusiasta em dados e programação, sempre estudando sobre a área de matemática e tecnologia.
 
-Atualmente estou atuando como Engenheiro de Dados na BlueShift Brasil.
+Atualmente estou atuando como Engenheiro de Dados Pleno na TDW Bi Consulting.
 
 ## Meu kit de ferramentas:
 
